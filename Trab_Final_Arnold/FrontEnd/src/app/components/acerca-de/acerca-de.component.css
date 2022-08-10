@@ -8,8 +8,8 @@ div{
 /*estilo foto de perfil*/
 @media (min-width: 576px){
     #fotodeperfil{
-        position: absolute;
-        width: 15%;
+        position: static; /*absolute*/
+        width: 100%; /*15%*/
         box-shadow: 7px 7px 5px rgb(31, 31, 31);
         /*top: 690px;
         border-radius: 100%;*/
