@@ -10,11 +10,12 @@
     width: 150px;
 }
 img{
-    width: 50px;
+    width: 50px; /*10vw*/
 }
 .btn{
     border-width: medium;
 }
+
 /* para celulares */
 @media (max-width: 575px){
     .container{
