@@ -52,6 +52,7 @@
             <scope>test</scope>
         </dependency>
         
+        <!-- Descargado de MVN Repository -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-security</artifactId>
